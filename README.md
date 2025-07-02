@@ -10,11 +10,11 @@
 
 ## Useful Links
 
-* [`gnark` User Documentation]
-* [`gnark` Playground]
-* [`gnark` Issues]
+* [`gnark` User Documentation].
+* [`gnark` Playground].
+* [`gnark` Issues].
 * [`gnark` Benchmarks](https://docs.gnark.consensys.net/overview#gnark-is-fast) 🏁
-* [`gnark-announce`] - Announcement list for new releases and security patches
+* [`gnark-announce`] - Announcement list for new releases and security patches.
 
 
 ## `gnark` Users
